@@ -5,7 +5,7 @@
   <PropertyGroup>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>Tesseract</PackageId>
+    <PackageId>SMI.Tesseract</PackageId>
     <Authors>Charles Weld</Authors>
     <Company />
     <Product>Tesseract</Product>
