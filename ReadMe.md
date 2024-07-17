@@ -1,5 +1,7 @@
 A .NET wrapper for [tesseract-ocr] 5.2.0.
 
+This has been updated to work on Ubuntu 22.04 and other similar systems, and re-published under the name `HIC.Tesseract`.
+
 ## Dependencies
 
 ### Visual Studio 2019 x86 and x64 Runtimes 
